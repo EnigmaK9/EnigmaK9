@@ -3,7 +3,7 @@ Hi! I'm Ignacio Padilla, a ML Engineer Jr. & Data Scientist Jr. based in Mexico.
 
 Skilled in data science w/ Python🐍, Pandas🐼, NumPy📚, Matplotlib📈, Tensorflow🤖, etc. Proficient in ML techs: classifications, regressions, Bayesian methods, NNs, etc.💻
 
-Web dev exp. w/ HTML, CSS, Javascript & React. Skilled in Git & Unix/Bash. Familiar w/ C, C++, Java, & Debiandesktop_computer💻. Experience w/ free software & hardware (e.g Raspberry Pi) 💻🔌
+Web dev exp. w/ HTML, CSS, Javascript & React. Skilled in Git & Unix/Bash. Familiar w/ C, C++, Java, & Debian💻. Experience w/ free software & hardware (e.g Raspberry Pi) 💻🔌
 
 Strong soft skills: active listening, attention to detail, empathy, problem solving, etc. Knowledgeable in HR & human capital.🧠
 
