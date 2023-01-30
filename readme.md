@@ -1,5 +1,5 @@
 # About
-Hi! I'm Ignacio Padilla, a ML Engineer Jr. & Data Scientist Jr. based in Mexico. My passions include AI🤖, clinical psychology🧠 & chess🏆. Seeking my first IT job, find me on GitHub "EnigmaK9" or LinkedIn "enigmak9".💼
+Hi! I'm Ignacio Padilla, a ML Engineer Jr. & Data Scientist Jr. based in Mexico. My passions include AI🤖, psychology🧠 & chess🏆. Seeking my first IT job, find me on GitHub "EnigmaK9" or LinkedIn "enigmak9".💼
 
 Skilled in data science w/ Python🐍, Pandas🐼, NumPybooks📚, Matplotlib📈, Tensorflow🤖, etc. Proficient in ML techs: classifications, regressions, Bayesian methods, NNs, etc.💻
 
