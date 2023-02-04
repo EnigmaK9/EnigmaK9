@@ -9,4 +9,4 @@ Strong soft skills: active listening, attention to detail, empathy, problem solv
 
 Excited to bring my diverse skills & enthusiasm to a new team.
 
-![snake animation](https://github.com/EnigmaK9/EnigmaK9/blob/output/github-contribution-grid-snake2.svg)
+![snake animation]<img src="https://github.com/EnigmaK9/EnigmaK9/blob/output/github-contribution-grid-snake.svg" width="100%" />
