@@ -8,3 +8,5 @@ Web dev exp. w/ HTML, CSS, Javascript & React. Skilled in Git & Unix/Bash. Famil
 Strong soft skills: active listening, attention to detail, empathy, problem solving, etc. Knowledgeable in HR & human capital.🧠
 
 Excited to bring my diverse skills & enthusiasm to a new team.
+
+![snake animation](https://github.com/EnigmaK9/EnigmaK9/blob/output/github-contribution-grid-snake2.svg)
