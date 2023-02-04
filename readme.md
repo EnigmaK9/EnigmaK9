@@ -1,3 +1,5 @@
+<img src="https://github.com/EnigmaK9/EnigmaK9/blob/output/github-contribution-grid-snake.svg" width="100%" />
+
 # About
 Hi! I'm Ignacio Padilla, a Computer Engineer based in Mexico. My passions include AI🤖, psychology🧠 & chess🏆. Seeking my first IT job, find me on GitHub "EnigmaK9" or LinkedIn "enigmak9".💼
 
@@ -9,4 +11,3 @@ Strong soft skills: active listening, attention to detail, empathy, problem solv
 
 Excited to bring my diverse skills & enthusiasm to a new team.
 
-<img src="https://github.com/EnigmaK9/EnigmaK9/blob/output/github-contribution-grid-snake.svg" width="100%" />
