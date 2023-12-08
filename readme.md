@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey there! 👋 I'm [Your Name], a passionate and results-driven Web Developer and Computer Engineer based in Mexico City, Mexico. With a strong background in web development, data science, and more, I'm dedicated to pushing the boundaries of what's possible in the digital world.
+Hey there! 👋 I'm EnigmaK9, a passionate and results-driven Computer Engineer based in Mexico City, Mexico. With a strong background in web development, data science, and more, I'm dedicated to pushing the boundaries of what's possible in the digital world.
 
 ## Experience 🌟
 
@@ -14,7 +14,7 @@ Hey there! 👋 I'm [Your Name], a passionate and results-driven Web Developer a
 
 🕒 Jan. 2023 - Nov. 2023
 
-🌐 [Speed Pro Website](https://www.speedpro.com/)
+🌐 [Speed Pro Website](https://speed-service.com.mx/)
 
 As a Web Developer at Speed Pro, I had the opportunity to revamp and optimize web applications using cutting-edge technologies. I harnessed the power of Firebase for seamless backend functionality, employed Bootstrap for creating responsive designs, and mastered HTML, CSS, and TypeScript for crafting elegant frontends. My skills in integrating databases led to improved data management, enhancing the overall user experience.
 
@@ -44,7 +44,7 @@ In the Data Science bootcamp, I honed my skills in SQL for working with database
 
 ## Let's Connect 🌐
 
-Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) or check out my other projects and contributions on [GitHub](https://github.com/yourgithubprofile).
+Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/enigmak9) or check out my other projects and contributions on [GitHub](https://github.com/enigmak9).
 
 Thanks for stopping by! 🌟
 
