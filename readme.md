@@ -1,6 +1,5 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile 🚀</h1>
 
-
 ## About Me
 
 Hey there! 👋 I'm EnigmaK9, a passionate and results-driven Computer Engineer based in Mexico City, Mexico. With a strong background in web development, data science, and more, I'm dedicated to pushing the boundaries of what's possible in the digital world.
@@ -31,9 +30,14 @@ During my volunteer role, I was entrusted with securing servers and developing w
 
 In the Data Science bootcamp, I honed my skills in SQL for working with databases like MongoDB and SQLite. I mastered Python and leveraged powerful libraries such as Pandas and NumPy for data manipulation and analysis. MongoDB databases also came under scrutiny for data storage and retrieval. SQL played an essential role in efficiently managing relational data and integrating it into various data science workflows. I seamlessly applied statistical techniques and machine learning algorithms, often incorporating SQL for data preprocessing and analytical pipelines.
 
+### Colmena Project at LINX Laboratory
+
+🏢 [LINX Laboratory, UNAM](https://linx.nucleares.unam.mx/colmena/)
+
+As part of the cutting-edge Colmena Project, I am instrumental in implementing deep learning techniques in nano-satellites. My role involves utilizing Deep Q Reinforcement Learning to optimize battery usage. This groundbreaking work is expected to be deployed by the end of this year and employs advanced concepts of Python, Deep Learning, and Control Theory.
+
 ## Let's Connect 🌐
 
 Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/enigmak9) or check out my other projects and contributions on [GitHub](https://github.com/enigmak9).
 
 Thanks for stopping by! 🌟
-
