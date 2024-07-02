@@ -12,7 +12,7 @@ class EnigmaK9:
         self.skills = ["Web Development", "Data Science", "Deep Learning", "SQL", "Python", "TypeScript"]
         self.languages = ["en_US", "es_MX"]
         self.experience = [
-            {"role": "Web Developer", "company": "Speed Pro", "website": "https://speed-service.com.mx/", "description": "Revamped and optimized web applications using cutting-edge technologies like Firebase, Bootstrap, HTML, CSS, and TypeScript."},
+            {"role": "Web Developer", "company": "Arrendify", "website": "https://arrendify.com/", "description": "Revamped and optimized web applications using cutting-edge technologies like Django and Python."},
             {"role": "Sentiment Analysis on X", "company": "Digital Systems Lab, UNAM", "description": "Implemented natural language processing techniques and managed data using Python libraries such as pandas, numpy, scikit-learn, NLTK, and Keras."},
             {"role": "Volunteer", "company": "Virtual Teaching and Cyberpsychology Lab, UNAM", "description": "Secured servers and developed web applications using TypeScript and Python, integrated MariaDB databases for secure data management."},
             {"role": "Data Science Bootcamp", "company": "Dev.F", "description": "Honed skills in SQL, Python, and data manipulation using Pandas and NumPy, integrated statistical techniques and machine learning algorithms into workflows."},
