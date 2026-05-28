@@ -97,6 +97,4 @@ Currently focused on **Python automation**, **deep reinforcement learning**, and
 
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke" />
 
-*Open to opportunities in AI/ML engineering, automation, and full-stack development.*
-
 </div>
