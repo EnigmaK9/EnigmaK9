@@ -22,6 +22,12 @@ Currently focused on **Python automation**, **deep reinforcement learning**, and
 - B.Sc. Psychology (Clinical)
 - Diploma in Mobile Development (Kotlin/Swift)
 
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
+
 ---
 
 ## Tech Stack
@@ -81,21 +87,19 @@ Currently focused on **Python automation**, **deep reinforcement learning**, and
 
 ---
 
-## GitHub Stats
+## Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnigmaK9&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke" />
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke" />
 
 *Open to opportunities in AI/ML engineering, automation, and full-stack development.*
 
