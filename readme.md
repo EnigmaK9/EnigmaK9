@@ -2,11 +2,11 @@
 
 # EnigmaK9
 
-### Computer Engineer & AI/ML Specialist
+### Automation & AI/ML Engineer
 
 [![Email](https://img.shields.io/badge/Email-enigmak9@protonmail.com-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:enigmak9@protonmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=EnigmaK9&label=Profile%20Views&color=7B4FBF&style=flat" alt="Profile views" />
+<sub>Open to opportunities in automation, AI/ML, and full-stack development</sub>
 
 </div>
 
