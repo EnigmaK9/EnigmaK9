@@ -1,12 +1,8 @@
 <div align="center">
 
-# EnigmaK9
-
-### Automation & AI/ML Engineer
+<sub>AI/ML, Full Stack & Python</sub>
 
 [![Email](https://img.shields.io/badge/Email-enigmak9@protonmail.com-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:enigmak9@protonmail.com)
-
-<sub>Open to opportunities in automation, AI/ML, and full-stack development</sub>
 
 </div>
 
